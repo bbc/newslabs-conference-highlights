@@ -4,5 +4,5 @@ What did you learn at the last conference/hack/etc you went to? Did you speak? W
 
 ## Events
 
-* [International Journalism Festival](https://github.com/BBC-News-Labs/conference-highlights/blob/master/README.md) - 15-19 April 2015, Perugia
-
+* [International Journalism Festival](https://github.com/BBC-News-Labs/conference-highlights/blob/master/ijf15) - 15-19 April 2015, Perugia
+* ?
