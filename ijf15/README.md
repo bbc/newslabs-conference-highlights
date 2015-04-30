@@ -45,8 +45,27 @@ The panelists have created [a google group dedicated to discussing structured jo
 
 TKTK
 
+### [Social Media Verification Tools](http://www.journalismfestival.com/programme/2015/social-media-verification-tools)
+
+Fergus Bell, head of newsroom partnerships and innovation at SAM, formerly head of UGC at the Associated Press, ran this entertaining and informative workshop on verifying stuff you find on social media.
+
+**Verify the source. Verify the content.**
+
+When you find a report on social media: 
+
+* Review the person's history, on that platform and others. People often use the same username across several sites.
+* Make contact: don't take someone's word for it. Ask them questions.
+* Ask for permission. Whether it's policy or not: it's a way to build a case for verification.
+
+* Seek separate confirmation 
+* Consult independent experts: people who know the location, landmarks, history, etc.
+* Translate text & audio.
+* Establish context. Be transparent about verification process
+
 ### [The Unicorns of the Newsroom](http://www.journalismfestival.com/programme/2015/the-unicorns-of-the-newsroom)
 
-This was the first panel I was on, and definitely the craziest in attendance: huge room, standing room only. I discussed how I got to be a programmer/journalist, aka a unicorn, and went over some of the projects I was most proud of / recent work. Aron Pilhofer (exec ed digital/Guardian, my former boss) discussed data journalism as well as some new projects only possible with "unicorns" at the Guardian. John Crowley, digital ed WSJ, also described how reporters and techies/designers can and should work together while reviewing interactive and data-driven projects from the Journal. 
+This was the first panel I was on, and definitely the craziest in attendance: huge room, standing room only. I discussed how I got to be a programmer/journalist, aka a unicorn*, and went over some of the projects I was most proud of / recent work. [Aron Pilhofer](http://www.journalismfestival.com/speaker/aron-pilhofer), executive editor for digital at The Guardian and my former boss, discussed data journalism as well as some new projects only possible with "unicorns" at the Guardian. [John Crowley](http://www.journalismfestival.com/speaker/john-crowley), digital editor for Europe, Middle East and Africa at The Wall Street Journal, also described how reporters and techies/designers can and should work together while reviewing interactive and data-driven projects from the Journal. 
 
-The big message? silos are bad, get your news nerd developer/architects/designers into the newsroom, working with reporters, pronto.
+The big message? Silos are bad, get your news nerd developer/architects/designers into the newsroom, working with reporters, pronto.
+
+* Yes, I was the token unicorn on the panel :D
