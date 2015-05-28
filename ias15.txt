@@ -1,0 +1,36 @@
+Hello all!
+
+I recently attended the IA Summit 2015 – you can find the complete listing of the talks here: http://www.iasummit.org/events/ias2015/ or on Lanyrd, if you prefer: http://lanyrd.com/2015/ias15/
+
+At the moment, only some of the talks have their slides available, but podcasts of all the main programme talks should be available soon – you can subscribe to an alert of when they’ll be ready.
+
+Particular talks of interest would be:
+
+The Politics of Navigation - http://www.iasummit.org/node/181 This was a really interesting talk that challenged my assumptions about designing ‘global navigation’ -  that neither a massive, fixed taxonomy, nor ‘just a search box’ is good enough, in some cases.
+
+What we mean by Meaning – New Structural Properties of IA - http://www.iasummit.org/node/146 Marsha Haverty was probably the breakout hit of the conference, with a presentation packed to the brim with research into IA and meaning. There’s a really nice analogy to the states of matter (solid, liquid, gas) and how information can be seen in a similar way. It was perhaps a little too academic for my head to take in first time, but is probably one that is worth coming back to a few times.
+
+Is Design Metrically Opposed? - http://www.iasummit.org/node/211 A talk by Jared Spool (who looks distractingly like George Constanza from Seinfeld) about the value of metrics – particularly when they are not valuable, and a call for designers to up their skills in data science/metrics. Slides available here: https://dl.dropboxusercontent.com/u/1086584/Is%20Design%20Metrically%20Opposed%3F%20-%20R3.0.pdf
+
+Architecting Reality – http://www.iasummit.org/node/106 A short, but important call to arms to design for everyone, and question your assumptions about gender, identity and ethics, when designing user experiences.
+
+The Battle for the Body Field - http://www.iasummit.org/node/111 I only caught some of this session, but it was a great intro to structured data/semantic HTML, and talked about why, although unstructured blobs of content might be appealing both editorially and technically (easy to build, editorial can do anything they like with them), it causes problems later on. Not sure if the talk was a bit too XML heavy though.
+
+Architecting the News – The Guardian’s Container Model - http://www.iasummit.org/node/91 Nick Haley (formerly of this parish) did a brief, but really useful talk on how the Guardian did their recent redesign, particularly talking about their flexible page structures – the ‘container’ model, and I really liked the idea of ‘blended content’ - essentially, content recommendations based on subjects or editorial styles, rather than on organisational subject silos.
+
+Structure & Metadata – Shortening the on-ramp to Linked Data - http://www.iasummit.org/node/166 I have to give a shout-out to this, which was a great myth-busting, jargon-dispelling talk about the value of Linked data in driving more interesting and useful user experiences. There was also a workshop on the subject.
+
+Mapping the Way Forward – The Importance of Visualisation - http://www.iasummit.org/node/161 If you like info-graphics and visualisation, this was a good exploration of applying drawing to the process of business analysis, and finding where current user experiences are broken. Drawing as a way of teasing out requirements, as it were.
+
+…and finally…
+
+New Fields and Feeled Effects - http://www.iasummit.org/node/291 Ted Nelson (father of hypertext and cuddly curmudgeon of the internet) gave a whistlestop tour (and a brief plug for his own ideas)  of disciplines within computing, making the important point that he, and therefore many others, has never heard of information architecture. It’s worth a watch, if only for his entertaining style.
+
+Designing Webs – Information Architecture as a Creative Practice - http://www.iasummit.org/node/176 A new version of my talk (previously done at Euro IA 2013) where I run through some of the narrative/structured data work the BBC has been doing, call for the Internet of Fictional Things and accuse Tim Berners-Lee of being a secret alchemist. You know, the usual UX conference case study stuff.
+
+Oh, and speaking of EuroIA:
+
+http://www.euroia.org/speaker/emily-heath/
+http://www.euroia.org/speaker/dan-ramsden/
+
+Book your tickets now :-)
